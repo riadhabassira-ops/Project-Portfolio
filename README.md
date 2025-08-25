@@ -71,8 +71,7 @@ Verification & Validation:
 └── report.pdf       # final report if public sharing allowed
 ```
 
-## License
-MIT (adjust as needed).
+
 
 ## Acknowledgements
 MS210 module brief and group collaboration.
